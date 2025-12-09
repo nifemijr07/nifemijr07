@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I’m Tobiloba 👋
 
-<!--
-**Junior0807/Junior0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner in software development, currently building my skills in Python, HTML, CSS, and JavaScript.
+I’m focused on improving, learning consistently, and sharing my progress publicly.
 
-Here are some ideas to get you started:
+🚀 What I’m Learning Right Now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python fundamentals
+
+Frontend development (HTML, CSS, JS)
+
+How to build real-life mini projects
+
+Git & GitHub workflow
+
+
+📌 What You’ll Find Here
+
+Small beginner projects
+
+Practice exercises
+
+Step-by-step improvements
+
+Experiments as I learn new tools
+
+
+🎯 My Goals
+
+Build real-world useful projects
+
+Become comfortable with backend development
+
+Connect with other developers 
+
+Grow into a confident full stack or back-end developer 
+
+Analyse data and create an engineered ML 
